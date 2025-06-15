@@ -1,0 +1,23 @@
+.bodyhome {
+  background: #111;
+  color: white;
+}
+
+.mainhome {
+  height: 200px;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  flex-direction: colummn;
+}
+.list a {
+  margin: 10px;
+  flex-basis: 100%;
+  color: #955;
+  text-decoration: none;
+  background-color: #222;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+}/*# sourceMappingURL=Dashboard.css.map */
